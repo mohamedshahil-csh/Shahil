@@ -1,0 +1,35 @@
+.mat-form-field {
+  
+    width: 100%;
+}
+
+h2{
+   margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+}
+.title{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.example-radio-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    align-items: flex-start;
+  }
+  
+  .example-radio-button {
+    margin: 5px;
+  }
+  .button-container {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center; 
+    gap: 10px;
+  }
+  
+  
+  
